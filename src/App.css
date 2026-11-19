@@ -1,0 +1,7 @@
+.black-nav {
+  display: flex;
+  background-color: #333;
+  width: 100%;
+  color: #fff;
+  padding-left: 20px;
+}
